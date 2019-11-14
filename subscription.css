@@ -1,0 +1,36 @@
+.abc
+{
+	text-align: center;
+	font-family:verdana;
+	font-size: 25px;
+	position:absolute;
+	top: 20px;
+	left:560px;
+}
+
+table
+{	
+	;
+
+	margin-left:425px;
+	margin-top:170px; 
+}
+
+.formal
+{
+	border:1px solid;
+	background-color:B4B7BA;
+	opacity: 0.75;
+	padding:40px;
+	font-family:verdana;
+	font-size: 16px;
+	position: absolute;
+	top:70px;
+	left:400px;
+}
+
+body
+{
+	
+	background-repeat: no-repeat; 
+}
